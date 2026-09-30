@@ -1,0 +1,6 @@
+{
+  "name": "Travelling Agent — Bespoke Itinerary & n8n Dispatch Portal",
+  "description": "Automated travel itinerary intake and dispatch portal integrated with the n8n Travelling Agent workflow for route planning, budget allocation, and real-time form submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
